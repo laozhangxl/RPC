@@ -1,0 +1,2 @@
+json=com.xxxx.rpc.protocal.serialization.JsonSerialization
+hessian=com.xxxx.rpc.protocal.serialization.HessianSerialization
